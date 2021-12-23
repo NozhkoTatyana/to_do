@@ -1,0 +1,42 @@
+{
+    "06.12.2021": [
+        {
+            "description": "watch the video",
+            "status": "done"
+        },
+        {
+            "description": "Design a structure to store information for displaying a to-do list in relation to dates",
+            "status": "not performed"
+        },
+        {
+            "description": "bla-bla-bla",
+            "status": "not performed"
+        }
+    ],
+    "07.12.2021": [
+        {
+            "description": "watch the video",
+            "status": "not performed"
+        },
+        {
+            "description": "do your homework",
+            "status": "not performed"
+        }
+    ],
+    "08.12.2021": [
+        {
+            "description": "write to the mentor",
+            "status": "not performed"
+        },
+        {
+            "description": "parse type conversion",
+            "status": "not performed"
+        }
+    ],
+    "16.06.2023": [
+        {
+            "description": "поехать в Лондон",
+            "status": "не сделано"
+        }
+    ]
+}
